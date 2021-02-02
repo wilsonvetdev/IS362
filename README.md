@@ -1,4 +1,4 @@
-# IS362 - Spring 2021
+# IS362 - Spring 2021 - Data Acquisition and Management
 
 ### Course Learning Outcomes:
 1. Read and write data to SQL and other structured data sources.
@@ -12,4 +12,9 @@
 * Python/Pandas/Beautiful Soup
 * Excel
 * Tableau
-* GitHub
+* GitHhub
+
+### Student Responsibilities
+* Use SQL and Python to create rich data analysis workflows for structured and unstructured data.
+* Present their workflows and analyses.
+* Weekly discussions on Blackboard.
