@@ -1,0 +1,21 @@
+airline, origin, status, num_of_flights
+Alaska, Los Angeles, on time, 497
+Alaska, Phoenix, on time, 221
+Alaska, San Diego, on time, 212
+Alaska, San Fransisco, on time, 503
+Alaska, Seattle, on time, 1,841
+Alaska, Los Angeles, delayed, 62
+Alaska, Phoenix, delayed, 12
+Alaska, San Diego, delayed, 20
+Alaska, San Fransisco, delayed, 102
+Alaska, Seattle, delayed, 305
+AM WEST, Los Angeles, on time, 694
+AM WEST, Phoenix, on time, 4,840
+AM WEST, San Diego, on time, 383
+AM WEST, San Fransisco, on time, 320
+AM WEST, Seattle, on time, 201
+AM WEST, Los Angeles, delayed, 117
+AM WEST, Phoenix, delayed, 415
+AM WEST, San Diego, delayed, 65
+AM WEST, San Fransisco, delayed, 129
+AM WEST, Seattle, delayed, 61
