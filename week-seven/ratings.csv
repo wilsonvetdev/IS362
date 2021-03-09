@@ -1,0 +1,32 @@
+name,movie,rating
+Wilson,Avatar,5
+John,Avatar,5
+Emily,Avatar,5
+Amy,Avatar,5
+Jason,Avatar,
+Wilson,Jurassic Park,4
+John,Jurassic Park,3
+Emily,Jurassic Park,
+Amy,Jurassic Park,5
+Jason,Jurassic Park,3
+Wilson,Money Ball,
+John,Money Ball,5
+Emily,Money Ball,3
+Amy,Money Ball,2
+Jason,Money Ball,4
+Wilson,Forrest Gump,5
+John,Forrest Gump,
+Emily,Forrest Gump,5
+Amy,Forrest Gump,3
+Jason,Forrest Gump,5
+Wilson,Dark Knight,3
+John,Dark Knight,
+Emily,Dark Knight,4
+Amy,Dark Knight,5
+Jason,Dark Knight,
+Wilson,Lucy,
+John,Lucy,3
+Emily,Lucy,2
+Amy,Lucy,5
+Jason,Lucy,1
+
